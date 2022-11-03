@@ -1,0 +1,29 @@
+{
+  "recipeDataExample": [
+    {
+      "name": "salmon pasta",
+      "ingredients": [
+        "salmon",
+        "fetuccini pasta",
+        "alfredo sauce",
+        "dill spices"
+      ]
+    },
+    {
+      "name": "salmon pasta example with array of objects including ingredient measurements",
+      "ingredients": [
+        { "salmon": "1 lb" },
+        { "fetuccini pasta": "1 package" },
+        { "alfredo sauce": "1 cup" },
+        { "dill spices": "1 tb" }
+      ],
+      "steps": [
+        "cook salmon",
+        "cook pasta",
+        "mix in sauce",
+        "put in baking dish",
+        "bake 30 minutes at 300` F"
+      ]
+    }
+  ]
+}
